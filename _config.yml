@@ -1,5 +1,5 @@
 # Site settings
-title:       Mon Blog sur Jekyll
+title:       Mon Blog sur Jekyll et le reste...
 email:       jmarck4@gmail.com
 author:      Jean-Marc Kraëber
 description: "C'est ici que j'écris sur Jekyll, Markdown, Sass, Susy, Gulp..."
@@ -10,9 +10,9 @@ url:         "http://jmarck4.github.io/"
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
-show_post_footers:  false
+show_post_footers:  true
 
 # Social icons
 show_social_icons: true
