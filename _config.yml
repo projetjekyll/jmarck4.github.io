@@ -10,9 +10,9 @@ url:         "http://jmarck4.github.io/"
 google_analytics:
 
 # Optional features
-animated:           true
+animated:           false
 show_related_posts: false
-show_post_footers:  true
+show_post_footers:  false
 
 # Social icons
 show_social_icons: true
