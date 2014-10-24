@@ -1,19 +1,16 @@
 ---
 layout: page
-title: About Pixyll
+title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Professeur de Mathématiques, passionné de Web Design, j'utilise WordPress depuis quelques années et j'en suis toujours très satisfait. Cependant en perpétuelle quête de nouveauté, j'avais besoin d'explorer d'autres contrées et j'ai découvert [Jekyll](http://jekyllrb.com), un générateur de blogs statiques destinés à être hébergé sur [Github](https://pages.github.com).  
+Je vais pouvoir ici vous faire partager mon expérience sur cette nouvelle plateforme ainsi qu'écrire sur des sujets qui m'intéressent comme :
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+* Le Design
+* JS
+* [Sass](http://sass-lang.com/) 
+* [Susy](http://ethanschoonover.com/solarized)
+* Le format SVG
+* La Typographie...
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
