@@ -10,7 +10,7 @@ Je vais pouvoir ici vous faire partager mon expérience sur cette nouvelle plate
 * Le Design
 * JS
 * [Sass](http://sass-lang.com/) 
-* [Susy](http://ethanschoonover.com/solarized)
+* [Susy](http://susy.oddbird.net/)
 * Le format SVG
 * La Typographie...
 
