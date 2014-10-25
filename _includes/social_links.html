@@ -1,6 +1,5 @@
 <div class="social-icons">
-  <div class="left">
-    {% if site.github_username %}
+     {% if site.github_username %}
       <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
     {% endif %}
     <a class="fa fa-rss" href="{{ "/feed.xml" | prepend: site.baseurl }}"></a>
@@ -27,6 +26,5 @@
     {% if site.flattr_button %}
       {{ site.flattr_button }}
     {% endif %}
-  </div>
 </div>
 <div class="clearfix"></div>
