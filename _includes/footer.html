@@ -1,26 +1,10 @@
-<footer class="footer">
-  <div class="p2 wrap">
-    <div class="measure mt1 center">
-      <small>
-       {% if site.show_social_icons %}
-        {% include social_links.html %}
-      {% endif %}
-        Blog propuls&eacute; par <a href="http://jekyllrb.com/">Jekyll</a>.<br>
-        &lt;/&gt; Fi&egrave;rement h&eacuteberg&eacute; par <a href="https://pages.github.com/">Github</a>.
-      </small>
+<footer>
+    <div class="wrap">
+        <span class="bigfont">{% if site.show_social_icons %}
+    {% include social_links.html %}
+  {% endif %}</span>
+    Blog propuls&eacute; par <a href="http://jekyllrb.com/">Jekyll</a>.<br>
+    & h&eacuteberg&eacute; par <a href="https://pages.github.com/">Github</a>.
     </div>
-  </div>
-</footer>
-
-{% if site.google_analytics %}
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', '{{ site.google_analytics }}', 'auto');
-ga('send', 'pageview');
-
-</script>
-{% endif %}
+    <!-- /.wrap -->
+</footer> 

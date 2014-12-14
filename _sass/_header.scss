@@ -1,0 +1,209 @@
+/* header -------------------------- */
+header {
+    padding: 104px 0;
+    background: url(../images/LR.jpg) no-repeat;
+    background-attachment: fixed;
+    font: 24px/36px $fontCaption;
+    color: $white;
+    @include bgsize;
+    @include sizing;
+    h1 {
+        font-size: 60px;
+        line-height: 60px;
+        font-weight: $f-medium;
+        margin-bottom: 38px;
+        span {
+            font-weight: $f-extra-light;
+        }
+    }
+    .autor {
+        padding: 12px 0 0;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: bold;
+        color: $color;
+        a {
+            color: $white;
+            &:hover {
+                color: $white;
+                @include opacity(0.8);
+            }
+            &:active {
+                color: $white;
+                @include opacity(1);
+            }
+        }
+    }
+    .buttons-wrapper {
+        padding-top: 53px;
+        .button-stripe {
+            margin-left: 14px;
+        }
+    }
+}
+.header-img {
+    float: right;
+}
+.header-wrapper {
+    padding-top: 87px;
+    max-width: 455px
+}
+
+#DIV_1 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    float: right;
+    height: 210px;
+    text-shadow: rgba(0, 0, 0, 0.498039) 0px 1px 3px;
+    width: 603.6875px;
+    perspective-origin: 301.84375px 105px;
+    transform-origin: 301.84375px 105px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal 300 normal 18px/23.3999996185303px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    margin: -30px 0px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#DIV_1*/
+
+#P_2 {
+    box-shadow: rgba(0, 0, 0, 0.498039) 0px 3px 10px 0px;
+    box-sizing: border-box;
+    color: rgb(68, 68, 68);
+    height: 35px;
+    text-align: center;
+    text-shadow: rgba(255, 255, 255, 0.498039) 0px 1px 0px;
+    width: 563.6875px;
+    perspective-origin: 281.84375px 17.5px;
+    transform-origin: 281.84375px 17.5px;
+    background: rgb(247, 247, 247) -webkit-linear-gradient(top, rgb(247, 247, 247) 0%, rgb(207, 207, 207) 7%, rgb(170, 170, 170) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+    border-top: 0px none rgb(68, 68, 68);
+    border-right: 0px none rgb(68, 68, 68);
+    border-bottom: 1px solid rgb(17, 17, 17);
+    border-left: 0px none rgb(68, 68, 68);
+    border-radius: 5px 5px 0 0;
+    font: normal normal normal normal 16px/24px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0px 20px;
+    outline: rgb(68, 68, 68) none 0px;
+    padding: 5px 0px;
+}/*#P_2*/
+
+#DIV_3 {
+    box-shadow: rgba(0, 0, 0, 0.298039) 0px 5px 30px 0px;
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 175px;
+    width: 563.6875px;
+    perspective-origin: 281.84375px 87.5px;
+    transform-origin: 281.84375px 87.5px;
+    background: rgb(61, 61, 61) none repeat scroll 0% 0% / auto padding-box border-box;
+    border: 0px none rgb(255, 255, 255);
+    border-radius: 0 0 5px 5px;
+    font: normal normal 300 normal 18px/23.3999996185303px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    margin: 0px 20px;
+    outline: rgb(255, 255, 255) none 0px;
+    padding: 20px;
+}/*#DIV_3*/
+
+#P_4, #P_8, #P_12, #P_16, #P_20 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 27px;
+    width: 523.6875px;
+    perspective-origin: 261.84375px 13.5px;
+    transform-origin: 261.84375px 13.5px;
+    border: 0px none rgb(255, 255, 255);
+    font: normal normal 300 normal 18px/27px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    margin: 0px;
+    outline: rgb(255, 255, 255) none 0px;
+}/*#P_4, #P_8, #P_12, #P_16, #P_20*/
+
+#SPAN_5, #SPAN_9, #SPAN_13 {
+    box-sizing: border-box;
+    color: rgb(135, 206, 235);
+    display: inline-block;
+    height: 27px;
+    width: 9.90625px;
+    perspective-origin: 4.953125px 13.5px;
+    transform-origin: 4.953125px 13.5px;
+    border: 0px none rgb(135, 206, 235);
+    font: normal normal 300 normal 18px/27px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    outline: rgb(135, 206, 235) none 0px;
+}/*#SPAN_5, #SPAN_9, #SPAN_13*/
+
+#SPAN_6, #SPAN_10, #SPAN_14, #SPAN_18 {
+    box-sizing: border-box;
+    color: rgb(205, 92, 92);
+    display: inline-block;
+    height: 27px;
+    width: 9.90625px;
+    perspective-origin: 4.953125px 13.5px;
+    transform-origin: 4.953125px 13.5px;
+    border: 0px none rgb(205, 92, 92);
+    font: normal normal 300 normal 18px/27px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    outline: rgb(205, 92, 92) none 0px;
+}/*#SPAN_6, #SPAN_10, #SPAN_14, #SPAN_18*/
+
+#SPAN_7, #SPAN_15 {
+    box-sizing: border-box;
+    color: rgb(240, 230, 140);
+    display: inline-block;
+    height: 27px;
+    width: 178.140625px;
+    perspective-origin: 89.0625px 13.5px;
+    transform-origin: 89.0625px 13.5px;
+    border: 0px none rgb(240, 230, 140);
+    font: normal normal 300 normal 18px/27px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    outline: rgb(240, 230, 140) none 0px;
+}/*#SPAN_7, #SPAN_15*/
+
+#SPAN_11 {
+    box-sizing: border-box;
+    color: rgb(240, 230, 140);
+    display: inline-block;
+    height: 27px;
+    width: 257.3125px;
+    perspective-origin: 128.65625px 13.5px;
+    transform-origin: 128.65625px 13.5px;
+    border: 0px none rgb(240, 230, 140);
+    font: normal normal 300 normal 18px/27px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    outline: rgb(240, 230, 140) none 0px;
+}/*#SPAN_11*/
+
+#SPAN_17 {
+    box-sizing: border-box;
+    color: rgb(135, 206, 235);
+    display: inline-block;
+    height: 27px;
+    width: 168.25px;
+    perspective-origin: 84.125px 13.5px;
+    transform-origin: 84.125px 13.5px;
+    border: 0px none rgb(135, 206, 235);
+    font: normal normal 300 normal 18px/27px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    outline: rgb(135, 206, 235) none 0px;
+}/*#SPAN_17*/
+
+#SPAN_19 {
+    box-sizing: border-box;
+    color: rgb(240, 230, 140);
+    display: inline-block;
+    height: 27px;
+    width: 118.765625px;
+    perspective-origin: 59.375px 13.5px;
+    transform-origin: 59.375px 13.5px;
+    border: 0px none rgb(240, 230, 140);
+    font: normal normal 300 normal 18px/27px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    outline: rgb(240, 230, 140) none 0px;
+}/*#SPAN_19*/
+
+#SPAN_21 {
+    box-sizing: border-box;
+    color: rgb(136, 136, 136);
+    display: inline-block;
+    height: 27px;
+    width: 395.859375px;
+    perspective-origin: 197.921875px 13.5px;
+    transform-origin: 197.921875px 13.5px;
+    border: 0px none rgb(136, 136, 136);
+    font: normal normal 300 normal 18px/27px Menlo, Consolas, 'Courier New', Courier, 'Liberation Mono', monospace;
+    outline: rgb(136, 136, 136) none 0px;
+}/*#SPAN_21*/
+

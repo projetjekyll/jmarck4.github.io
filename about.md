@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-Professeur de Mathématiques, passionné de Web Design, j'utilise WordPress depuis quelques années et j'en suis toujours très satisfait. Cependant en perpétuelle quête de nouveauté, j'avais besoin d'explorer d'autres contrées et j'ai découvert [Jekyll](http://jekyllrb.com), un générateur de blogs statiques destinés à être hébergé sur [Github](https://pages.github.com).  
-Je vais pouvoir ici vous faire partager mon expérience sur cette nouvelle plateforme ainsi qu'écrire sur des sujets qui m'intéressent comme :
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-* Le Design
-* JS
-* [Sass](http://sass-lang.com/) 
-* [Susy](http://susy.oddbird.net/)
-* Le format SVG
-* La Typographie...
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)

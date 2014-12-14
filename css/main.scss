@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "variables";
+@import "mixins";
+@import "reset";
+@import "common";
+@import "header";
+@import "footer";
+@import "home";
+@import "content";
+@import "sections";
+@import "syntax-highlighting";
+@import "sidebar";
+@import "media";
