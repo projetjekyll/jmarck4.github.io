@@ -1,7 +1,7 @@
 # Site settings
 title:       Jekyll 
 tagline:     "Des ressources pour l'utilisation de Jekyll"
-description: "J'ai très vite été séduit par Jekyll et c'est ici que je partage cette idyle..."
+description: "J'ai très vite été séduit par Jekyll et c'est ici que je partage cette idylle..."
 baseurl: "" # the subpath of your site, e.g. /blog/
 baseurl:     ""
 url:         "http://jmarck4.github.io/"
